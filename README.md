@@ -28,7 +28,7 @@ Downloading runs automatically in the background.
 ### Upstream data
 
     http://planet.openstreetmap.org/replication/minute/000/123/456.osc.gz
-    http://planet.openstreetmap.org/replication/changesets/000/123/456.osc.gz
+    http://planet.openstreetmap.org/replication/changesets/000/123/456.osm.gz
 
 
 ### LevelDB schema
